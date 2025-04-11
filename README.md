@@ -1,12 +1,11 @@
 # 🥤 Bebidas Naturais
 
-Este projeto é um site dedicado a bebidas naturais, com o objetivo de compartilhar informações, benefícios e receitas saudáveis de sucos, chás, vitaminas e outras opções naturais para o dia a dia.
+Este projeto de bebidas naturais, com o objetivo de compartilhar informações, benefícios saudáveis de sucos.
 
 ## 🌱 Sobre o projeto
 
-A ideia é incentivar hábitos saudáveis através do consumo de bebidas feitas com ingredientes naturais. No site, você encontrará:
+A ideia é incentivar hábitos saudáveis através do consumo de bebidas feitas com ingredientes naturais. 
 
-- 🧃 Receitas práticas de sucos e chás
 - 🥬 Benefícios dos ingredientes naturais
 - 🌿 Dicas para melhorar a saúde com bebidas naturais
 
